@@ -1,11 +1,11 @@
   
   <h1 align="center">
-    Oi, eu sou o 
-    <a href="#">Jonathan Borges</a>
+    Olá, meu nome é
+    <a href="#">Lavínia</a>
   </h1>
   
    <p align="center">
-  Meu nome é Lavínia, tenho 19 anos. Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia. Tenho curso técnico em Informática para Internet pelo IFNMG. Sou apaixonada por tecnologia!  </p>
+  Tenho 19 anos. Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia. Tenho curso técnico em Informática para Internet pelo IFNMG. Sou apaixonada por tecnologia!  </p>
 
 <div align="center" style="display: inline_block"> 
  
