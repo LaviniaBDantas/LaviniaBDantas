@@ -9,8 +9,8 @@
 
 <div align="center" style="display: inline_block"> 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jonathan&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jonathan&layout=compact&theme=radical)](https://github.com/dev-jonathan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-lavinia&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lavinia&layout=compact&theme=radical)](https://github.com/dev-lavinia/github-readme-stats)
  
  </div > 
 
