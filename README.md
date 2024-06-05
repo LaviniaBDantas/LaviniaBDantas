@@ -43,10 +43,11 @@ printf("Hello World, Seja Bem Vindo");
 
 ### Interesses:
 
-* Desenvolvimento Android
+* Inteligência Artificial 
 * Web
-* Linux
+* Back-end
 * POO
+* Dados
 
 
 [mais exemplos](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
