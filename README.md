@@ -5,7 +5,7 @@
   </h1>
   
    <p align="center">
-  Tenho 19 anos. Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia. Tenho curso técnico em Informática para Internet pelo IFNMG. Sou apaixonada por tecnologia!  </p>
+Atualmente estou cursando Sistemas de Informação na Universidade Federal de Uberlândia. Tenho curso técnico em Informática para Internet pelo IFNMG. Sou apaixonada por tecnologia!  </p>
 
 <div align="center" style="display: inline_block"> 
  
