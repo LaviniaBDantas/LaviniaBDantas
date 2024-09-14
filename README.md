@@ -35,7 +35,7 @@ Atualmente estou cursando Sistemas de Informação na Universidade Federal de Ub
  ##
    
 ~~~c
-printf("Hello World, Seja Bem Vindo"); 
+printf("Hello World!"); 
 ~~~
 
 ### Interesses:
